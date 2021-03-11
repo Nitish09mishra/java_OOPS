@@ -15,7 +15,7 @@ public class utilClass {
         
         EncapTest encap = new EncapTest();
         encap.setName("Nitish Mishra");
-        System.out.print("Name : " + encap.getName());
+        System.out.println("Name : " + encap.getName());
         
         Phone latestVersion = new PhoneSet2();
         latestVersion.call();
