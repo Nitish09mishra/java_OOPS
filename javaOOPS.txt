@@ -95,6 +95,6 @@ class PhoneSet2 extends PhoneSet1 {
     }
     
     public void videoGame(){
-        System.out.videoGame("\nVideogame...");
+        System.out.println("\nVideogame...");
     }
 }
