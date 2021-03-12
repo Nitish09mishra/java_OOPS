@@ -3,12 +3,12 @@ public class Inheritance {
 	public static void main(String[] args) {
         
 		// creating new instance of class human...
-        student aman= new student();
+       		student aman= new student();
         
-        //this will call the speak method present in human class because of inheritance...
-        aman.speak(); 
-        
-        aman.study();
+        	//this will call the speak method present in human class because of inheritance...
+        	aman.speak(); 
+        	//will call study method from student class....
+        	aman.study();
 	}
 }
 
