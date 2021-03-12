@@ -2,8 +2,7 @@ public class Polymorphism {
 	public static void main(String[] args) {
 		
 		//instace of punjabi...
-		indian maninder= new punjabi();
-		
+		indian maninder= new punjabi();		
 		//will call overridden speak method from class punjabi...
 		maninder.speak();
 		
