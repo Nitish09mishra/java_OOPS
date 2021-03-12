@@ -6,10 +6,10 @@ public class Encapsulation {
 		EncapTest encap = new EncapTest();  
 		
 		//calling setName method of Encaptest class...
-        encap.setName("Nitish Mishra");
+        	encap.setName("Nitish Mishra");
         
-        //calling getName mathod of EncapTest class...
-        System.out.print("Hello : " + encap.getName());
+        	//calling getName mathod of EncapTest class...
+        	System.out.print("Hello : " + encap.getName());
 	}
 }
 
